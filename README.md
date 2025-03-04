@@ -1,5 +1,7 @@
 # mastodon-shell
-Shell scripts to post to a Mastodon Account
+Shell scripts to post to a Mastodon Account or any other Fediverse server with a Mastodon-compatible API
+
+Can post 1 to 4 media attachments with their ALT text
 
 # Usage
 * Posting just text:
